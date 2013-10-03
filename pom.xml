@@ -33,7 +33,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>zalgo.Zalgo</mainClass>
+                            <mainClass>tk.ivybits.jalgo.Zalgo</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

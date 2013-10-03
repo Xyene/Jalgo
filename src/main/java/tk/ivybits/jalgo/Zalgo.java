@@ -1,4 +1,4 @@
-package zalgo;
+package tk.ivybits.jalgo;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
@@ -13,7 +13,7 @@ import javax.swing.JSplitPane;
 import javax.swing.JTextArea;
 import javax.swing.ScrollPaneConstants;
 import javax.swing.UIManager;
-import zalgo.script.ZalgoScript;
+import tk.ivybits.jalgo.script.ZalgoScript;
 
 /**
  *

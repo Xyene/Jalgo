@@ -1,4 +1,4 @@
-package zalgo.script;
+package tk.ivybits.jalgo.script;
 
 import java.awt.Component;
 import java.awt.event.ActionEvent;
@@ -13,7 +13,7 @@ import javax.swing.JSeparator;
 import javax.swing.JSpinner;
 import javax.swing.LayoutStyle;
 import javax.swing.SwingConstants;
-import zalgo.Script;
+import tk.ivybits.jalgo.Script;
 
 /**
  *

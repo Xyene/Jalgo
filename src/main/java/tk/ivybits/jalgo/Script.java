@@ -1,4 +1,4 @@
-package zalgo;
+package tk.ivybits.jalgo;
 
 import java.awt.Component;
 
